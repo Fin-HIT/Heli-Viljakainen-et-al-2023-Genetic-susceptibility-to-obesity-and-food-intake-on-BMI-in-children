@@ -30,4 +30,7 @@ Phone: +358504485660
 -	No document may be submitted without FinHIT DAC have read and approved the manuscript.
 
 ## Link for the data
-After approval by the corresponding author, private link to data will be shared.
+Please contact Heli Viljakainen, the corresponding author, for an access right to the data. <br/> 
+Once given a right to view the data, you will be sent an email link to a private GitHub repository. <br/>
+Once you open the link, GitHub will ask you to create an account with the email you provided. <br/>
+Create an account and view the data on your private repository.
