@@ -26,5 +26,5 @@ Phone: +358504485660
 ## Link for the data
 Please contact Heli Viljakainen, the corresponding author, for an access right to the data. <br/> 
 Once given a right to view the data, you will be sent an email link to a private GitHub repository. <br/>
-Once you open the link, GitHub will ask you to create an account with the email you provided. <br/>
+GitHub will ask you to create an account with the email you provided. <br/>
 Create an account and view the data on your private repository.
