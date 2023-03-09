@@ -18,13 +18,13 @@ Email: heli.viljakainen@helsinki.fi <br/>
 Phone: +358504485660
 
 ## Privacy statement
-1.	Data is meant only for scientific purposes and made available with ethical committee approval and confidentiality agreement.
-2.	Data must be handled in accordance with General Data Protection regulations.
-3.	Investigators should follow Good Clinical Practice when conducting the study and reporting the results.
-4.	Data should not be shared with third parties.
+-	Data is meant only for scientific purposes and made available with ethical committee approval and confidentiality agreement.
+-	Data must be handled in accordance with General Data Protection regulations.
+-	Investigators should follow Good Clinical Practice when conducting the study and reporting the results.
+-	Data should not be shared with third parties.
 
-## Link for the data
-Please contact Heli Viljakainen, the corresponding author, for an access right to the data. <br/> 
-Once given a right to view the data, you will be sent an email link to a private GitHub repository. <br/>
-GitHub will ask you to create an account with the email you provided. <br/>
-Create an account and view the data on your private repository.
+## Steps to access the data
+1. Please contact Heli Viljakainen, the corresponding author, for an access right to the data. <br/> 
+2. Once given a right to view the data, you will be sent an email link to a private GitHub repository. <br/>
+3. GitHub will ask you to create an account with the email you provided. <br/>
+4. Create an account and view the data on your private repository.
