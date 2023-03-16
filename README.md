@@ -25,6 +25,6 @@ Phone: +358504485660
 
 ## Steps to access the data
 1. Please contact Heli Viljakainen, the corresponding author, for an access right to the data. <br/> 
-2. Once given a right to view the data, you will be sent an email link to a private GitHub repository. <br/>
+2. Once access is granted, you will be sent an email link to a private GitHub repository. <br/>
    GitHub will ask you to create an account with the email you provided. <br/>
 3. Create an account and view the data on your private repository.
